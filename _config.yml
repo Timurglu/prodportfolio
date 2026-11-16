@@ -1,4 +1,4 @@
-baseurl: "/portfolio"
+baseurl: "/prodportfolio"
 plugins:
   - jekyll-redirect-from
 redirect_from:
